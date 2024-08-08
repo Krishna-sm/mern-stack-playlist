@@ -117,7 +117,7 @@ type Input={
                               <button disabled={loading} onClick={onSubmitHandlerForLogin} className="w-full bg-blue-500 disabled:bg-red-300  py-3 text-center text-white rounded-md">{loading ? `loading....` : ` Login`}</button>
                       </div>}
                                                 </div>
-                                    {JSON.stringify(state)}
+                                    {/* {JSON.stringify(state)} */}
                                     </div>
 
 
